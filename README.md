@@ -60,12 +60,6 @@ sudo ./auditoria.sh 192.168.1.0/24
 4. Lanzará el ataque y mostrará por pantalla si logró acceso o si el sistema bloqueó la intrusión.
 5. Guardará todas las evidencias en el archivo de informe local de manera automática.
 
-## Demostración
-
-*(Añade aquí un par de capturas de pantalla de tu script funcionando. Por ejemplo, una del menú inicial y otra cuando encuentra una contraseña en rojo).*
-
-![Screenshot Menú](ruta/a/tu/imagen_menu.png)
-![Screenshot Éxito](ruta/a/tu/imagen_exito.png)
 
 ## ⚠️ Aviso Legal (Disclaimer)
 
